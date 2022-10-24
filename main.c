@@ -1,11 +1,5 @@
 /* Emircan KİREZ - Ch3rry */
 /* Son Güncelleme - 18/09/2022 */
-/*
------------------------ BİLGİLENDİRME ---------------------------
-• Projeye geçmeden önce README.md dosyasını okumanız tavsiye edilmektedir.
-• Projeyle alakalı herhangi bir soru ve öneri için "emircan200123@hotmail.com" mail adresi üzerinden, konu başlığına "Github | C-TR / Bir Kelimenin Bütün Büyük Küçük 
-Harf Kombinasyonlarını Bulma" yazarak benimle iletişime geçebilirsiniz.
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
