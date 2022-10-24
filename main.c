@@ -1,5 +1,6 @@
 /* Emircan KİREZ - Ch3rry */
 /* Son Güncelleme - 18/09/2022 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
